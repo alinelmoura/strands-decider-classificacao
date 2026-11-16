@@ -1,0 +1,8 @@
+strands-decider
+pandas
+numpy
+requests
+openpyxl
+tqdm
+ipywidgets
+jupyter

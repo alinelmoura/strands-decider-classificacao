@@ -1,0 +1,16 @@
+# Saídas geradas pelo notebook
+saida_decider/
+
+# Dados reais: nunca versionar (só o exemplo fictício em dados/)
+dados/*
+!dados/exemplo_gold.xlsx
+!dados/exemplo_taxonomia.xlsx
+*.csv
+*.jsonl
+
+# Ambiente
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
